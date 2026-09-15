@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "source": "vrc-map-ratings",
+  "maps": [
+    {
+      "id": "the-great-pug",
+      "name": "The Great Pug",
+      "author": "PugGaming",
+      "platform": ["PC", "Quest"],
+      "capacity": 0,
+      "tags": ["酒馆", "社交", "经典", "聚会"],
+      "thumbnail": "",
+      "description": "VRChat 最经典的社交酒馆地图之一。三层结构、台球桌、吧台和舞台一应俱全，适合长时间挂机和随机邂逅。",
+      "url": "https://vrchat.com/home/world/wrld_8c8b8f2e-1a2b-4c7d-9e5f-0a1b2c3d4e5f",
+      "publishedAt": "2020-03-12"
+    },
+    {
+      "id": "black-cat",
+      "name": "The Black Cat",
+      "author": "PugGaming",
+      "platform": ["PC", "Quest"],
+      "capacity": 0,
+      "tags": ["酒馆", "社交", "夜景", "聚会"],
+      "thumbnail": "",
+      "description": "赛博朋克风格的夜间街区，霓虹灯下的开放世界酒馆。比 The Great Pug 更宽敞，经常有活动和演出。",
+      "url": "https://vrchat.com/home/world/wrld_1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+      "publishedAt": "2021-11-05"
+    },
+    {
+      "id": "spookala",
+      "name": "Spookala",
+      "author": "SpookyGhost",
+      "platform": ["PC", "Quest"],
+      "capacity": 0,
+      "tags": ["恐怖", "探索", "解谜"],
+      "thumbnail": "",
+      "description": "短小但精致的恐怖探索图，氛围营造极佳。建议开麦克风和朋友一起进，容易出效果。",
+      "url": "https://vrchat.com/home/world/wrld_2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+      "publishedAt": "2022-10-20"
+    },
+    {
+      "id": "just-breathe",
+      "name": "Just Breathe",
+      "author": "MacBit",
+      "platform": ["PC", "Quest"],
+      "capacity": 0,
+      "tags": ["放松", "冥想", "风景"],
+      "thumbnail": "",
+      "description": "一个安静的湖边冥想空间，几乎没有交互，只有风声和水声。适合一个人在深夜放空。",
+      "url": "https://vrchat.com/home/world/wrld_3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+      "publishedAt": "2019-06-18"
+    },
+    {
+      "id": "game-of-lies",
+      "name": "Game of Lies",
+      "author": "LycanStudio",
+      "platform": ["PC"],
+      "capacity": 20,
+      "tags": ["狼人杀", "多人", "社交推理", "聚会"],
+      "thumbnail": "",
+      "description": "内置完整规则的狼人杀地图，支持主持人视角和自动流程。需要至少 8 人才能开一局。",
+      "url": "https://vrchat.com/home/world/wrld_4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+      "publishedAt": "2022-04-02"
+    },
+    {
+      "id": "furality-umbra",
+      "name": "Furality Umbra",
+      "author": "Furality",
+      "platform": ["PC", "Quest"],
+      "capacity": 80,
+      "tags": ["展会", "舞台", "演出", "活动"],
+      "thumbnail": "",
+      "description": "Furality 兽聚活动的虚拟会场，大型舞台加展览厅。活动期间会有实时演出，平日可自由参观。",
+      "url": "https://vrchat.com/home/world/wrld_5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+      "publishedAt": "2023-07-14"
+    },
+    {
+      "id": "organ-memory",
+      "name": "Organ Memory",
+      "author": "Kuro",
+      "platform": ["PC"],
+      "capacity": 8,
+      "tags": ["恐怖", "剧情", "探索", "解谜"],
+      "thumbnail": "",
+      "description": "剧情向恐怖地图，以医学院为背景，有多结局。画面细节非常夸张，对显卡有一定要求。",
+      "url": "https://vrchat.com/home/world/wrld_6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+      "publishedAt": "2023-01-28"
+    },
+    {
+      "id": "sky-club",
+      "name": "Sky Club",
+      "author": "NovaWorlds",
+      "platform": ["PC", "Quest"],
+      "capacity": 40,
+      "tags": ["夜店", "音乐", "跳舞", "社交"],
+      "thumbnail": "",
+      "description": "悬空夜店，整点会有 DJ 演出和灯光秀。音乐同步做得很好，适合跳舞或者就站着看。",
+      "url": "https://vrchat.com/home/world/wrld_7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+      "publishedAt": "2022-08-09"
+    },
+    {
+      "id": "treehouse-in-the-woods",
+      "name": "Treehouse in the Woods",
+      "author": "RootMaker",
+      "platform": ["PC", "Quest"],
+      "capacity": 16,
+      "tags": ["风景", "放松", "小屋", "拍照"],
+      "thumbnail": "",
+      "description": "森林深处的树屋营地，有篝火和星空。非常适合小团体聊天和拍照，光影效果很柔和。",
+      "url": "https://vrchat.com/home/world/wrld_8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+      "publishedAt": "2021-05-30"
+    },
+    {
+      "id": "murder-mystery-4",
+      "name": "Murder Mystery 4",
+      "author": "TerraNova",
+      "platform": ["PC", "Quest"],
+      "capacity": 16,
+      "tags": ["解谜", "多人", "剧情", "合作"],
+      "thumbnail": "",
+      "description": "系列第四作，一局约 45 分钟。场景动线设计得很聪明，第一次玩建议不要看攻略。",
+      "url": "https://vrchat.com/home/world/wrld_9d0e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+      "publishedAt": "2024-02-11"
+    },
+    {
+      "id": "avatar-search",
+      "name": "Avatar Search World",
+      "author": "CommunityBuild",
+      "platform": ["PC", "Quest"],
+      "capacity": 32,
+      "tags": ["工具", "模型", "实用"],
+      "thumbnail": "",
+      "description": "公共模型检索地图，站内搜索后可以直接试穿并收藏。比起翻论坛方便太多。",
+      "url": "https://vrchat.com/home/world/wrld_0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b",
+      "publishedAt": "2023-09-25"
+    },
+    {
+      "id": "neon-park",
+      "name": "Neon Park",
+      "author": "NovaWorlds",
+      "platform": ["PC"],
+      "capacity": 24,
+      "tags": ["风景", "赛博朋克", "拍照", "夜景"],
+      "thumbnail": "",
+      "description": "夜晚的城市公园，满屏霓虹和全息广告。拍照党的天堂，也支持全身镜和拍照机位标记。",
+      "url": "https://vrchat.com/home/world/wrld_1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c",
+      "publishedAt": "2024-06-03"
+    }
+  ]
+}

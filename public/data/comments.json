@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "source": "vrc-map-comments",
+  "comments": [
+    {
+      "id": "c-0001",
+      "mapId": "the-great-pug",
+      "author": "LigeLoveRosita",
+      "stars": 5,
+      "body": "永远的起点站。台球桌旁边永远有人在，想聊天随时有得聊。",
+      "at": "2026-08-01T12:25:00Z",
+      "likes": 12
+    },
+    {
+      "id": "c-0002",
+      "mapId": "the-great-pug",
+      "author": "Rin",
+      "stars": 4,
+      "body": "经典是经典，但 Quest 版本砍了不少细节，画质差别挺明显的。",
+      "at": "2026-08-03T09:14:00Z",
+      "likes": 5
+    },
+    {
+      "id": "c-0003",
+      "mapId": "the-great-pug",
+      "author": "Neko_9",
+      "stars": 4,
+      "body": "人多的时候会掉帧，自己开房间比较舒服。",
+      "at": "2026-08-11T22:10:00Z",
+      "likes": 3
+    },
+    {
+      "id": "c-0004",
+      "mapId": "black-cat",
+      "author": "LigeLoveRosita",
+      "stars": 5,
+      "body": "夜景和霓虹真的顶，拍照出片率最高的公共图上没有之一。",
+      "at": "2026-08-02T14:05:00Z",
+      "likes": 21
+    },
+    {
+      "id": "c-0005",
+      "mapId": "black-cat",
+      "author": "Sumi",
+      "stars": 5,
+      "body": "比 Pug 宽敞太多了，站着不动也不会一直被撞。",
+      "at": "2026-08-07T20:20:00Z",
+      "likes": 9
+    },
+    {
+      "id": "c-0006",
+      "mapId": "black-cat",
+      "author": "Momo",
+      "stars": 5,
+      "body": "有演出的时候气氛特别好，建议周末晚上来。",
+      "at": "2026-08-22T16:55:00Z",
+      "likes": 7
+    },
+    {
+      "id": "c-0007",
+      "mapId": "spookala",
+      "author": "Ghosty",
+      "stars": 5,
+      "body": "第一次玩的时候真的被吓到了，音效设计很脏（褒义）。",
+      "at": "2026-08-09T23:35:00Z",
+      "likes": 15
+    },
+    {
+      "id": "c-0008",
+      "mapId": "spookala",
+      "author": "Yuu",
+      "stars": 3,
+      "body": "内容偏短，一局十五分钟就通关了。胜在氛围。",
+      "at": "2026-08-18T19:50:00Z",
+      "likes": 2
+    },
+    {
+      "id": "c-0009",
+      "mapId": "just-breathe",
+      "author": "Sumi",
+      "stars": 5,
+      "body": "压力大的时候进来坐十分钟，比什么都管用。",
+      "at": "2026-08-05T06:45:00Z",
+      "likes": 18
+    },
+    {
+      "id": "c-0010",
+      "mapId": "just-breathe",
+      "author": "Airi",
+      "stars": 5,
+      "body": "没有交互、没有活动、没有人打扰，这点恰恰是最好的地方。",
+      "at": "2026-08-12T07:20:00Z",
+      "likes": 11
+    },
+    {
+      "id": "c-0011",
+      "mapId": "game-of-lies",
+      "author": "Rin",
+      "stars": 5,
+      "body": "规则自动化做得很好，不需要人肉记票，主持人轻松很多。",
+      "at": "2026-08-06T20:06:00Z",
+      "likes": 14
+    },
+    {
+      "id": "c-0012",
+      "mapId": "game-of-lies",
+      "author": "Yuu",
+      "stars": 5,
+      "body": "凑满人的话能玩一整晚，强烈建议固定车队来。",
+      "at": "2026-08-24T19:25:00Z",
+      "likes": 8
+    },
+    {
+      "id": "c-0013",
+      "mapId": "furality-umbra",
+      "author": "Momo",
+      "stars": 5,
+      "body": "会场规模相当夸张，建议留两小时慢慢逛展。",
+      "at": "2026-08-13T17:35:00Z",
+      "likes": 16
+    },
+    {
+      "id": "c-0014",
+      "mapId": "furality-umbra",
+      "author": "Hana",
+      "stars": 4,
+      "body": "活动期间人数上限会满，最好提前蹲点进场。",
+      "at": "2026-08-21T14:20:00Z",
+      "likes": 4
+    },
+    {
+      "id": "c-0015",
+      "mapId": "organ-memory",
+      "author": "Ghosty",
+      "stars": 5,
+      "body": "剧情和多结局都做得认真，玩完会有点后劲。注意别硬撑。",
+      "at": "2026-08-05T23:55:00Z",
+      "likes": 19
+    },
+    {
+      "id": "c-0016",
+      "mapId": "organ-memory",
+      "author": "Yuu",
+      "stars": 4,
+      "body": "画面很吃配置，我 3060 开高画质会掉到 40 帧左右。",
+      "at": "2026-08-16T22:45:00Z",
+      "likes": 6
+    },
+    {
+      "id": "c-0017",
+      "mapId": "sky-club",
+      "author": "Neko_9",
+      "stars": 4,
+      "body": "灯光秀确实好看，但音乐风格比较单一，放久了会腻。",
+      "at": "2026-08-15T22:25:00Z",
+      "likes": 3
+    },
+    {
+      "id": "c-0018",
+      "mapId": "treehouse-in-the-woods",
+      "author": "Sumi",
+      "stars": 5,
+      "body": "小团体聊天的最佳选择，篝火旁边一坐就是三小时。",
+      "at": "2026-08-20T19:15:00Z",
+      "likes": 13
+    },
+    {
+      "id": "c-0019",
+      "mapId": "murder-mystery-4",
+      "author": "Rin",
+      "stars": 5,
+      "body": "动线和线索分布很聪明，不要提前看攻略，体验完全不同。",
+      "at": "2026-08-09T20:35:00Z",
+      "likes": 10
+    },
+    {
+      "id": "c-0020",
+      "mapId": "avatar-search",
+      "author": "Ghosty",
+      "stars": 5,
+      "body": "省事神器。以前翻论坛找模型，现在站内搜一下就行。",
+      "at": "2026-08-30T16:25:00Z",
+      "likes": 22
+    },
+    {
+      "id": "c-0021",
+      "mapId": "neon-park",
+      "author": "Hana",
+      "stars": 5,
+      "body": "全身镜和机位标记都有，拍照党可以直接来。",
+      "at": "2026-08-18T22:35:00Z",
+      "likes": 17
+    },
+    {
+      "id": "c-0022",
+      "mapId": "neon-park",
+      "author": "Ryu",
+      "stars": 5,
+      "body": "晚上八点以后光影最好看，白天来会有点空。",
+      "at": "2026-09-06T23:15:00Z",
+      "likes": 9
+    }
+  ]
+}

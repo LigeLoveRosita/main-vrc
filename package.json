@@ -1,0 +1,19 @@
+{
+  "name": "vrc-map-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VRChat 地图推荐与评分站 - 纯静态站点，部署于 Cloudflare Pages / Workers",
+  "scripts": {
+    "dev": "wrangler pages dev public --port 8788",
+    "deploy": "wrangler pages deploy public --project-name=vrc-map-site",
+    "deploy:worker": "wrangler deploy",
+    "preview": "python -m http.server 8777 --directory public"
+  },
+  "devDependencies": {
+    "wrangler": "^3.80.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "Apache-2.0"
+}

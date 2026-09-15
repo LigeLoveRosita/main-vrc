@@ -1,0 +1,39 @@
+#:schema node_modules/wrangler/config-schema.json
+
+# ============================================================
+# Cloudflare Workers 配置（静态资源模式）
+# ------------------------------------------------------------
+# 如果你用 Cloudflare Pages（推荐），这个文件用不上：
+#   Pages 只需要在控制台填 Build output directory = public
+#
+# 想部署成 Worker（自定义域名 / 需要绑定 KV、D1 时更灵活）：
+#   npx wrangler deploy
+# ============================================================
+
+name = "vrc-map-site"
+compatibility_date = "2026-09-01"
+compatibility_flags = ["nodejs_compat"]
+
+# 静态资源：public/ 视为站点根目录
+[assets]
+directory = "./public"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+
+[observability]
+enabled = true
+
+# ------------------------------------------------------------
+# 可选：开启后前端可以直接把评分/评论写进数据仓库
+# 需要先设置 secret：
+#   npx wrangler secret put GH_TOKEN
+#   npx wrangler secret put SUBMIT_SECRET
+# ------------------------------------------------------------
+[vars]
+GH_OWNER = "LigeLoveRosita"
+RATINGS_REPO = "vrc-map-ratings"
+COMMENTS_REPO = "vrc-map-comments"
+
+# [[kv_namespaces]]
+# binding = "RATE_LIMIT"
+# id = "替换成你的 KV namespace id"
